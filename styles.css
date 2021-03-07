@@ -91,6 +91,7 @@ body {
   padding: 28px;
   border-radius: 8px;
   color: var(--Verydark-grayish-blue);
+  grid-row: 5;
 }
 
 .card-4 {
